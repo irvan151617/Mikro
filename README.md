@@ -1,2 +1,2 @@
-# Mikro
+# Mikrokontroller
 Mikrokontroller
